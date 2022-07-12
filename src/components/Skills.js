@@ -55,6 +55,10 @@ export const Skills = () => {
                             </div>
                             <div className="item">
                                 <img src={meter2} alt="Image" />
+                                <h5>GitHub</h5>
+                            </div>
+                            <div className="item">
+                                <img src={meter2} alt="Image" />
                                 <h5>Next.JS</h5>
                             </div>
                             <div className="item">
