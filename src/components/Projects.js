@@ -26,13 +26,13 @@ export const Projects = () => {
       imgUrl: projImg3,
     },
     {
-      title: "Business Startup",
-      description: "Design & Development",
+      title: "HANAMI",
+      description: "Look at my HANAMI-WEBSITE",
       imgUrl: projImg1,
     },
     {
-      title: "Business Startup",
-      description: "Design & Development",
+      title: "COUNTER",
+      description: "Look at my COUNTER-APP",
       imgUrl: projImg2,
     },
     {
