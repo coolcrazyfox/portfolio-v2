@@ -7,7 +7,12 @@ import arrow1 from "../assets/img/arrow1.svg";
 import arrow2 from "../assets/img/arrow2.svg";
 import colorSharp from "../assets/img/color-sharp.png"
 
-export const Skills = () => {
+export const Skills = (props) => {
+    const inition = [
+        {id:1, sr: meter1 , name: 'JS'},
+        {id:2, sr: meter2 , name: 'TS'},
+        {id:3, sr: meter3 , name: 'HTML'}
+    ]
   const responsive = {
     superLargeDesktop: {
       // the naming can be any, depends on you.
@@ -27,6 +32,7 @@ export const Skills = () => {
       items: 1
     }
   };
+
 
   return (
     <section className="skill" id="skills">
