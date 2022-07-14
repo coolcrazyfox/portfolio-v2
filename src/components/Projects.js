@@ -36,8 +36,8 @@ export const Projects = () => {
       imgUrl: projImg2,
     },
     {
-      title: "Business Startup",
-      description: "Design & Development",
+      title: "CARDS",
+      description: "Look at my CARDS-APP",
       imgUrl: projImg3,
     },
   ];
