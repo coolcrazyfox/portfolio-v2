@@ -9,7 +9,7 @@ import TrackVisibility from 'react-on-screen';
 
 export const Projects = () => {
 
-  const projects = [
+  const projectsTabFirst = [
     {
       title: "SOCIAL NETWORK",
       description: "Look at my SOCIAL NETWORK",
@@ -73,6 +73,38 @@ export const Projects = () => {
       imgUrl: projImg3,
     },
   ];
+  const projectsTabThird = [
+    {
+      title: "SOCIAL NETWORK",
+      description: "Look at my SOCIAL NETWORK",
+      imgUrl: projImg1,
+    },
+    {
+      title: "TODOLIST",
+      description: "Look at my TODOLIST-APP",
+      imgUrl: projImg2,
+    },
+    {
+      title: "WEBSITE",
+      description: "Look at my WEBSITE",
+      imgUrl: projImg3,
+    },
+    {
+      title: "HANAMI",
+      description: "Look at my HANAMI-WEBSITE",
+      imgUrl: projImg1,
+    },
+    {
+      title: "COUNTER",
+      description: "Look at my COUNTER-APP",
+      imgUrl: projImg2,
+    },
+    {
+      title: "CARDS",
+      description: "Look at my CARDS-APP",
+      imgUrl: projImg3,
+    },
+  ];
 
   return (
     <section className="project" id="project">
@@ -100,7 +132,7 @@ export const Projects = () => {
                     <Tab.Pane eventKey="first">
                       <Row>
                         {
-                          projects.map((project, index) => {
+                          projectsTabFirst.map((project, index) => {
                             return (
                               <ProjectCard
                                 key={index}
@@ -128,7 +160,7 @@ export const Projects = () => {
                     <Tab.Pane eventKey="third">
                       <Row>
                         {
-                          projectsTabSecond.map((project, index) => {
+                          projectsTabThird.map((project, index) => {
                             return (
                                 <ProjectCard
                                     key={index}
