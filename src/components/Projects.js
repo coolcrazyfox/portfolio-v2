@@ -41,6 +41,38 @@ export const Projects = () => {
       imgUrl: projImg3,
     },
   ];
+  const projectsTabSecond = [
+    {
+      title: "SOCIAL NETWORK",
+      description: "Look at my SOCIAL NETWORK",
+      imgUrl: projImg1,
+    },
+    {
+      title: "TODOLIST",
+      description: "Look at my TODOLIST-APP",
+      imgUrl: projImg2,
+    },
+    {
+      title: "WEBSITE",
+      description: "Look at my WEBSITE",
+      imgUrl: projImg3,
+    },
+    {
+      title: "HANAMI",
+      description: "Look at my HANAMI-WEBSITE",
+      imgUrl: projImg1,
+    },
+    {
+      title: "COUNTER",
+      description: "Look at my COUNTER-APP",
+      imgUrl: projImg2,
+    },
+    {
+      title: "CARDS",
+      description: "Look at my CARDS-APP",
+      imgUrl: projImg3,
+    },
+  ];
 
   return (
     <section className="project" id="project">
@@ -80,7 +112,18 @@ export const Projects = () => {
                       </Row>
                     </Tab.Pane>
                     <Tab.Pane eventKey="section">
-                      <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Cumque quam, quod neque provident velit, rem explicabo excepturi id illo molestiae blanditiis, eligendi dicta officiis asperiores delectus quasi inventore debitis quo.</p>
+                      <Row>
+                        {
+                          projectsTabSecond.map((project, index) => {
+                            return (
+                                <ProjectCard
+                                    key={index}
+                                    {...project}
+                                />
+                            )
+                          })
+                        }
+                      </Row>
                     </Tab.Pane>
                     <Tab.Pane eventKey="third">
                       <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Cumque quam, quod neque provident velit, rem explicabo excepturi id illo molestiae blanditiis, eligendi dicta officiis asperiores delectus quasi inventore debitis quo.</p>
