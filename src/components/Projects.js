@@ -3,6 +3,9 @@ import { ProjectCard } from "./ProjectCard";
 import projImg1 from "../assets/img/social.gif";
 import projImg2 from "../assets/img/todolist.gif";
 import projImg3 from "../assets/img/webSite.gif";
+import projImg4 from "../assets/img/hanami.gif";
+import projImg5 from "../assets/img/counter.gif";
+import projImg6 from "../assets/img/cards.jpg";
 import colorSharp2 from "../assets/img/color-sharp2.png";
 import 'animate.css';
 import TrackVisibility from 'react-on-screen';
@@ -28,17 +31,17 @@ export const Projects = () => {
     {
       title: "HANAMI",
       description: "Look at my HANAMI-WEBSITE",
-      imgUrl: projImg1,
+      imgUrl: projImg4,
     },
     {
       title: "COUNTER",
       description: "Look at my COUNTER-APP",
-      imgUrl: projImg2,
+      imgUrl: projImg5,
     },
     {
       title: "CARDS",
       description: "Look at my CARDS-APP",
-      imgUrl: projImg3,
+      imgUrl: projImg6,
     },
   ];
   const projectsTabSecond = [
