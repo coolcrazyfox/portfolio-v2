@@ -146,7 +146,7 @@ export const Projects = () => {
                         }
                       </Row>
                     </Tab.Pane>
-                    <Tab.Pane eventKey="section">
+                    <Tab.Pane eventKey="second">
                       <Row>
                         {
                           projectsTabSecond.map((project, index) => {
