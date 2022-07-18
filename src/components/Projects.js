@@ -60,13 +60,13 @@ export const Projects = () => {
       imgUrl: projImg8,
     },
     {
-      title: "WEBSITE",
-      description: "Look at my WEBSITE",
+      title: "HOTELS WEBSITE",
+      description: "Look at my HOTELS WEBSITE",
       imgUrl: projImg9,
     },
     {
-      title: "HANAMI",
-      description: "Look at my HANAMI-WEBSITE",
+      title: "WEATHER 3D-SITE",
+      description: "Look at my 3D-WEBSITE",
       imgUrl: projImg10,
     },
     {
