@@ -77,8 +77,8 @@ export const Projects = () => {
       imgUrl: projImg11,
     },
     {
-      title: "CARDS",
-      description: "Look at my CARDS-APP",
+      title: "RICK & MORTY APP",
+      description: "Look at my R&M-APP",
       imgUrl: projImg12,
     },
   ];
