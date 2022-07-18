@@ -46,8 +46,8 @@ export const Projects = () => {
   ];
   const projectsTabSecond = [
     {
-      title: "SOCIAL NETWORK",
-      description: "Look at my SOCIAL NETWORK",
+      title: "MIAMI",
+      description: "Look at my MIAMI-WEBSITE",
       imgUrl: projImg1,
     },
     {
