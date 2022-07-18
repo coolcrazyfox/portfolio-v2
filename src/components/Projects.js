@@ -10,6 +10,8 @@ import projImg7 from "../assets/img/miami.gif";
 import projImg8 from "../assets/img/bmw.gif";
 import projImg9 from "../assets/img/hotel.jpg";
 import projImg10 from "../assets/img/weather.gif";
+import projImg11 from "../assets/img/chess.gif";
+import projImg12 from "../assets/img/rick&morty.gif";
 import colorSharp2 from "../assets/img/color-sharp2.png";
 import 'animate.css';
 import TrackVisibility from 'react-on-screen';
@@ -65,13 +67,13 @@ export const Projects = () => {
       imgUrl: projImg9,
     },
     {
-      title: "WEATHER 3D-SITE",
-      description: "Look at my 3D-WEBSITE",
+      title: "WEATHER SITE",
+      description: "Look at my WEATHER-WEBSITE",
       imgUrl: projImg10,
     },
     {
-      title: "COUNTER",
-      description: "Look at my COUNTER-APP",
+      title: "CHESS APP",
+      description: "Look at my CHESS-GAME",
       imgUrl: projImg11,
     },
     {
