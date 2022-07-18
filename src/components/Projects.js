@@ -7,6 +7,8 @@ import projImg4 from "../assets/img/hanami.gif";
 import projImg5 from "../assets/img/counter.gif";
 import projImg6 from "../assets/img/cards.jpg";
 import projImg7 from "../assets/img/miami.gif";
+import projImg8 from "../assets/img/bmw.gif";
+
 import colorSharp2 from "../assets/img/color-sharp2.png";
 import 'animate.css';
 import TrackVisibility from 'react-on-screen';
@@ -52,8 +54,8 @@ export const Projects = () => {
       imgUrl: projImg7,
     },
     {
-      title: "TODOLIST",
-      description: "Look at my TODOLIST-APP",
+      title: "BMW-WEBSITE",
+      description: "Look at my BMW-WEBSITE",
       imgUrl: projImg8,
     },
     {
