@@ -8,7 +8,8 @@ import projImg5 from "../assets/img/counter.gif";
 import projImg6 from "../assets/img/cards.jpg";
 import projImg7 from "../assets/img/miami.gif";
 import projImg8 from "../assets/img/bmw.gif";
-
+import projImg9 from "../assets/img/hotel.jpg";
+import projImg10 from "../assets/img/weather.gif";
 import colorSharp2 from "../assets/img/color-sharp2.png";
 import 'animate.css';
 import TrackVisibility from 'react-on-screen';
