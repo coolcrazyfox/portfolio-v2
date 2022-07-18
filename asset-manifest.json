@@ -1,17 +1,23 @@
 {
   "files": {
     "main.css": "/portfolio-v2/static/css/main.fec0259e.css",
-    "main.js": "/portfolio-v2/static/js/main.f2d96f67.js",
+    "main.js": "/portfolio-v2/static/js/main.b1502f9b.js",
     "static/js/787.fb771931.chunk.js": "/portfolio-v2/static/js/787.fb771931.chunk.js",
+    "static/media/bmw.gif": "/portfolio-v2/static/media/bmw.53da5adcc4ae0c747a8d.gif",
     "static/media/todolist.gif": "/portfolio-v2/static/media/todolist.7acfbdbe654fa4458f47.gif",
     "static/media/counter.gif": "/portfolio-v2/static/media/counter.76b44cc36a9118b21027.gif",
+    "static/media/weather.gif": "/portfolio-v2/static/media/weather.b59265fa842a7f6fb1ad.gif",
     "static/media/color-sharp.png": "/portfolio-v2/static/media/color-sharp.bea361cfef80fefc2d1e.png",
     "static/media/color-sharp2.png": "/portfolio-v2/static/media/color-sharp2.c87586c6c2f549cb4aa6.png",
     "static/media/webSite.gif": "/portfolio-v2/static/media/webSite.e383567a71f3f1d360c3.gif",
     "static/media/hanami.gif": "/portfolio-v2/static/media/hanami.4ee34213186ebc1800e9.gif",
+    "static/media/rick&morty.gif": "/portfolio-v2/static/media/rick&morty.25d389388e93f3a45d92.gif",
+    "static/media/miami.gif": "/portfolio-v2/static/media/miami.63a50040ea6160dae912.gif",
     "static/media/social.gif": "/portfolio-v2/static/media/social.0b7e8f43c10d03369843.gif",
+    "static/media/chess.gif": "/portfolio-v2/static/media/chess.ccd340fc541aa781c61e.gif",
     "static/media/banner-bg.png": "/portfolio-v2/static/media/banner-bg.cc1273af450504afe755.png",
     "static/media/header-img.svg": "/portfolio-v2/static/media/header-img.84bf93eb20488a753440bf83d27db7bb.svg",
+    "static/media/hotel.jpg": "/portfolio-v2/static/media/hotel.638c103f939a602da2b5.jpg",
     "static/media/CentraNo2-Bold.ttf": "/portfolio-v2/static/media/CentraNo2-Bold.2faff7f7d3fc92a2fcd9.ttf",
     "static/media/CentraNo2-Medium.ttf": "/portfolio-v2/static/media/CentraNo2-Medium.f94be5b326d78bb32b95.ttf",
     "static/media/CentraNo2-Book.ttf": "/portfolio-v2/static/media/CentraNo2-Book.2b143fa4b734a3584043.ttf",
@@ -31,11 +37,11 @@
     "static/media/arrow2.svg": "/portfolio-v2/static/media/arrow2.3d9522b6fd8f2464b7200ebf2c1bb09a.svg",
     "static/media/arrow1.svg": "/portfolio-v2/static/media/arrow1.0c89b5b635adf255c2822c630aaa6ccf.svg",
     "main.fec0259e.css.map": "/portfolio-v2/static/css/main.fec0259e.css.map",
-    "main.f2d96f67.js.map": "/portfolio-v2/static/js/main.f2d96f67.js.map",
+    "main.b1502f9b.js.map": "/portfolio-v2/static/js/main.b1502f9b.js.map",
     "787.fb771931.chunk.js.map": "/portfolio-v2/static/js/787.fb771931.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.fec0259e.css",
-    "static/js/main.f2d96f67.js"
+    "static/js/main.b1502f9b.js"
   ]
 }
