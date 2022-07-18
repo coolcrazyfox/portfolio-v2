@@ -48,32 +48,32 @@ export const Projects = () => {
     {
       title: "MIAMI",
       description: "Look at my MIAMI-WEBSITE",
-      imgUrl: projImg1,
+      imgUrl: projImg7,
     },
     {
       title: "TODOLIST",
       description: "Look at my TODOLIST-APP",
-      imgUrl: projImg2,
+      imgUrl: projImg8,
     },
     {
       title: "WEBSITE",
       description: "Look at my WEBSITE",
-      imgUrl: projImg3,
+      imgUrl: projImg9,
     },
     {
       title: "HANAMI",
       description: "Look at my HANAMI-WEBSITE",
-      imgUrl: projImg1,
+      imgUrl: projImg10,
     },
     {
       title: "COUNTER",
       description: "Look at my COUNTER-APP",
-      imgUrl: projImg2,
+      imgUrl: projImg11,
     },
     {
       title: "CARDS",
       description: "Look at my CARDS-APP",
-      imgUrl: projImg3,
+      imgUrl: projImg12,
     },
   ];
   const projectsTabThird = [
