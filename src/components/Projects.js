@@ -6,6 +6,7 @@ import projImg3 from "../assets/img/webSite.gif";
 import projImg4 from "../assets/img/hanami.gif";
 import projImg5 from "../assets/img/counter.gif";
 import projImg6 from "../assets/img/cards.jpg";
+import projImg7 from "../assets/img/miami.gif";
 import colorSharp2 from "../assets/img/color-sharp2.png";
 import 'animate.css';
 import TrackVisibility from 'react-on-screen';
