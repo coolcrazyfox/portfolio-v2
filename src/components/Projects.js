@@ -13,6 +13,7 @@ import projImg10 from "../assets/img/weather.gif";
 import projImg11 from "../assets/img/chess.gif";
 import projImg12 from "../assets/img/rick&morty.gif";
 import projImg13 from "../assets/img/nature.gif";
+import projImg14 from "../assets/img/countries.gif";
 import colorSharp2 from "../assets/img/color-sharp2.png";
 import 'animate.css';
 import TrackVisibility from 'react-on-screen';
