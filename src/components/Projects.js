@@ -84,9 +84,9 @@ export const Projects = () => {
   ];
   const projectsTabThird = [
     {
-      title: "SOCIAL NETWORK",
-      description: "Look at my SOCIAL NETWORK",
-      imgUrl: projImg1,
+      title: "3D WEBSITE",
+      description: "Look at my 3D WEBSITE",
+      imgUrl: projImg13,
     },
     {
       title: "TODOLIST",
