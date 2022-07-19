@@ -12,6 +12,7 @@ import projImg9 from "../assets/img/hotel.jpg";
 import projImg10 from "../assets/img/weather.gif";
 import projImg11 from "../assets/img/chess.gif";
 import projImg12 from "../assets/img/rick&morty.gif";
+import projImg13 from "../assets/img/nature.gif";
 import colorSharp2 from "../assets/img/color-sharp2.png";
 import 'animate.css';
 import TrackVisibility from 'react-on-screen';
@@ -89,9 +90,9 @@ export const Projects = () => {
       imgUrl: projImg13,
     },
     {
-      title: "TODOLIST",
-      description: "Look at my TODOLIST-APP",
-      imgUrl: projImg2,
+      title: "COUNTRIES WEBSITE",
+      description: "Look at my COUNTRIES WEBSITE",
+      imgUrl: projImg14,
     },
     {
       title: "WEBSITE",
