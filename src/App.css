@@ -434,7 +434,9 @@ nav.navbar .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
 .proj-btn{
   width: 60px;
   height: auto;
+  color: white;
   background: rgba(13, 202, 240, 0.18);
+  border-radius: 15px;
 }
 .proj-txtx {
   position: absolute;
