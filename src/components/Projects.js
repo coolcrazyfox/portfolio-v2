@@ -26,6 +26,7 @@ export const Projects = () => {
       title: "SOCIAL NETWORK",
       description: "Look at my SOCIAL NETWORK",
       imgUrl: projImg1,
+      href: 'https://coolcrazyfox.github.io/social_network-v/#/'
     },
     {
       title: "TODOLIST",
