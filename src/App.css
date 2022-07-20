@@ -431,6 +431,11 @@ nav.navbar .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
 .proj-imgbx:hover::before {
   height: 100%;
 }
+.proj-btn{
+  width: 60px;
+  height: auto;
+  background: rgba(13, 202, 240, 0.18);
+}
 .proj-txtx {
   position: absolute;
   text-align: center;
