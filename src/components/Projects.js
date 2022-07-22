@@ -88,6 +88,7 @@ export const Projects = () => {
       title: "CHESS APP",
       description: "Look at my CHESS-GAME",
       imgUrl: projImg11,
+      href: 'https://coolcrazyfox.github.io/social_network-v/#/'
     },
     {
       title: "RICK & MORTY APP",
