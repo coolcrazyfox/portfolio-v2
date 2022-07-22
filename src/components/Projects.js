@@ -82,6 +82,7 @@ export const Projects = () => {
       title: "WEATHER SITE",
       description: "Look at my WEATHER-WEBSITE",
       imgUrl: projImg10,
+      href: 'https://coolcrazyfox.github.io/social_network-v/#/'
     },
     {
       title: "CHESS APP",
