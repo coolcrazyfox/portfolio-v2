@@ -70,7 +70,7 @@ export const Projects = () => {
       title: "BMW-WEBSITE",
       description: "Look at my BMW-WEBSITE",
       imgUrl: projImg8,
-      href: 'https://coolcrazyfox.github.io/social_network-v/#/'
+      href: 'https://coolcrazyfox.github.io/anim-slider-site/'
     },
     {
       title: "HOTELS WEBSITE",
