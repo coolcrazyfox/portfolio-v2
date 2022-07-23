@@ -94,7 +94,7 @@ export const Projects = () => {
       title: "RICK & MORTY APP",
       description: "Look at my R&M-APP",
       imgUrl: projImg12,
-      href: 'https://coolcrazyfox.github.io/social_network-v/#/'
+      href: 'https://coolcrazyfox.github.io/3D-site/'
     },
   ];
   const projectsTabThird = [
@@ -102,6 +102,7 @@ export const Projects = () => {
       title: "3D WEBSITE",
       description: "Look at my 3D WEBSITE",
       imgUrl: projImg13,
+      href: 'https://coolcrazyfox.github.io/3D-site/'
     },
     {
       title: "COUNTRIES WEBSITE",
