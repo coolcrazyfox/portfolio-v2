@@ -67,7 +67,7 @@ export const Projects = () => {
       href: 'https://coolcrazyfox.github.io/social_network-v/#/'
     },
     {
-      title: "BMW-WEBSITE",
+      title: "AUTOIDEA.BY",
       description: "Look at my BMW-WEBSITE",
       imgUrl: projImg8,
       href: 'https://coolcrazyfox.github.io/anim-slider-site/'
