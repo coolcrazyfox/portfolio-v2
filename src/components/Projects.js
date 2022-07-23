@@ -50,7 +50,7 @@ export const Projects = () => {
       title: "COUNTER",
       description: "Look at my COUNTER-APP",
       imgUrl: projImg5,
-      href: 'https://coolcrazyfox.github.io/social_network-v/#/'
+      href: 'https://coolcrazyfox.github.io/my-counter-v/'
     },
     {
       title: "CARDS",
