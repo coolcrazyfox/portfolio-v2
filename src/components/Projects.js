@@ -44,7 +44,7 @@ export const Projects = () => {
       title: "HANAMI",
       description: "Look at my HANAMI-WEBSITE",
       imgUrl: projImg4,
-      href: 'https://coolcrazyfox.github.io/social_network-v/#/'
+      href: 'https://coolcrazyfox.github.io/Hanami/'
     },
     {
       title: "COUNTER",
