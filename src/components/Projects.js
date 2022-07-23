@@ -56,7 +56,7 @@ export const Projects = () => {
       title: "CARDS",
       description: "Look at my CARDS-APP",
       imgUrl: projImg6,
-      href: 'https://coolcrazyfox.github.io/cards-project/#/l'
+      href: 'https://coolcrazyfox.github.io/cards-project/'
     },
   ];
   const projectsTabSecond = [
