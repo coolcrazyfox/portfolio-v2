@@ -35,7 +35,7 @@ export const Skills = (props) => {
 
 
   return (
-    <section className="skill" id="skills">
+    <section className="skill" id="skills">{/*id ==skills==navLink*/}
         <div className="container">
             <div className="row">
                 <div className="col-12">
