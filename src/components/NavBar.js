@@ -49,7 +49,9 @@ export const NavBar = () => {
               <a href="https://t.me/Andrei_Malets/"><img src={navIcon2} alt="" /></a>
               <a href="https://github.com/coolcrazyfox"><img src={navIcon3} alt="" /></a>
             </div>
-            <button className="vvd" onClick={() => console.log('connect')}><span>Let’s Connect</span></button>
+            <Nav.Link href='#connect' onClick={() => onUpdateActiveLink('connect')}>
+              <button  className="vvd" ><span>Let’s Connect</span></button>
+            </Nav.Link>
           </span>
         </Navbar.Collapse>
       </Container>
