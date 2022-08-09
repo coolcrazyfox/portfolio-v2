@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/portfolio-v2/static/css/main.462d9159.css",
-    "main.js": "/portfolio-v2/static/js/main.e45908eb.js",
+    "main.js": "/portfolio-v2/static/js/main.f06221b3.js",
     "static/js/787.fb771931.chunk.js": "/portfolio-v2/static/js/787.fb771931.chunk.js",
     "static/media/1.png": "/portfolio-v2/static/media/1.becf6e9fcea3e2357296.png",
     "static/media/bmw.gif": "/portfolio-v2/static/media/bmw.53da5adcc4ae0c747a8d.gif",
@@ -10,6 +10,7 @@
     "static/media/nature.gif": "/portfolio-v2/static/media/nature.d778aca9c187f67d27aa.gif",
     "static/media/counter.gif": "/portfolio-v2/static/media/counter.76b44cc36a9118b21027.gif",
     "static/media/weather.gif": "/portfolio-v2/static/media/weather.b59265fa842a7f6fb1ad.gif",
+    "static/media/luxury-car.gif": "/portfolio-v2/static/media/luxury-car.751261c2f6dc0b4e61a1.gif",
     "static/media/color-sharp.png": "/portfolio-v2/static/media/color-sharp.bea361cfef80fefc2d1e.png",
     "static/media/color-sharp2.png": "/portfolio-v2/static/media/color-sharp2.c87586c6c2f549cb4aa6.png",
     "static/media/webSite.gif": "/portfolio-v2/static/media/webSite.e383567a71f3f1d360c3.gif",
@@ -40,11 +41,11 @@
     "static/media/arrow2.svg": "/portfolio-v2/static/media/arrow2.3d9522b6fd8f2464b7200ebf2c1bb09a.svg",
     "static/media/arrow1.svg": "/portfolio-v2/static/media/arrow1.0c89b5b635adf255c2822c630aaa6ccf.svg",
     "main.462d9159.css.map": "/portfolio-v2/static/css/main.462d9159.css.map",
-    "main.e45908eb.js.map": "/portfolio-v2/static/js/main.e45908eb.js.map",
+    "main.f06221b3.js.map": "/portfolio-v2/static/js/main.f06221b3.js.map",
     "787.fb771931.chunk.js.map": "/portfolio-v2/static/js/787.fb771931.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.462d9159.css",
-    "static/js/main.e45908eb.js"
+    "static/js/main.f06221b3.js"
   ]
 }
