@@ -14,7 +14,8 @@ import projImg11 from "../assets/img/chess.gif";
 import projImg12 from "../assets/img/rick&morty.gif";
 import projImg13 from "../assets/img/nature.gif";
 import projImg14 from "../assets/img/countries.gif";
-import projImg15 from "../assets/img/next.gif";
+import projImg15 from "../assets/img/luxury-car.gif";
+import projImg16 from "../assets/img/next.gif";
 import colorSharp2 from "../assets/img/color-sharp2.png";
 import 'animate.css';
 import TrackVisibility from 'react-on-screen';
@@ -108,11 +109,13 @@ export const Projects = () => {
       title: "COUNTRIES WEBSITE",
       description: "Look at my COUNTRIES WEBSITE",
       imgUrl: projImg14,
+      href: 'https://coolcrazyfox.github.io/drive-react-website/'
     },
     {
-      title: "WEBSITE",
-      description: "Look at my WEBSITE",
-      imgUrl: projImg3,
+      title: "DRIVE WEBSITE",
+      description: "Look at my DRIVE WEBSITE",
+      imgUrl: projImg15,
+      href: 'https://coolcrazyfox.github.io/drive-react-website/'
     },
     {
       title: "HANAMI",
@@ -127,7 +130,7 @@ export const Projects = () => {
     {
       title: "NEXT PROJECT",
       description: "Look at my NEXT PROJECT",
-      imgUrl: projImg15,
+      imgUrl: projImg16,
     },
   ];
 
